@@ -4,5 +4,5 @@
 ### 可编辑段落:
     ontenteditable="true"
     例如：
-    :    <p contenteditable="true">这是一个可编辑段落。</p> 
+:    <p contenteditable="true">这是一个可编辑段落。</p> 
 
